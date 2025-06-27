@@ -1,0 +1,19 @@
+# Godot generated files
+.import/
+.godot/
+export/
+*.import
+*.translation
+*.godot-export.cfg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.tmp
+*.bak
+*.old
+
+# Editor settings
+project.godot/editor_settings-*.txt
