@@ -1,7 +1,6 @@
 # Godot generated files
 .import/
 .godot/
-export/
 *.import
 *.translation
 *.godot-export.cfg
